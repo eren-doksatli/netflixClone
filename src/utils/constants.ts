@@ -1,6 +1,5 @@
-const API_KEY = '722094f107b7c151a99a7f76ef279809';
-const TOKEN =
-  'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3MjIwOTRmMTA3YjdjMTUxYTk5YTdmNzZlZjI3OTgwOSIsIm5iZiI6MTcwODYyMjU1NS4yMzMsInN1YiI6IjY1ZDc4MmRiYjMzOTAzMDE3YTQ2YTM2OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.QNqybea_L7uF1ZD2tAal7ZpeIifiHluosBFglEte3-4';
+const API_KEY = '';
+const TOKEN = '';
 
 enum sections {
   POPULARTV = 'POPULARTV',
